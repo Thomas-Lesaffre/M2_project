@@ -27,9 +27,9 @@ void cntl_c_handler (int bidon)
 /* 
 
 The purpose of  this program is to perform numerical analyses of the exact recursions on genotypic frequencies for the case of 
-a modifier locus affecting reproductive effort with a fixed selfing rate. Here, in the 'upwards' direction, that is,
-starting from a low resident, reproductive effort and introducing a mutant increasing reproductive effort,
-then gradually increasing the reproductive effort coded by the resident, as the mutant invades, until it no longer does.
+a modifier locus affecting reproductive effort with a fixed selfing rate. Here, in the 'downwards' direction, that is,
+starting from a high resident reproductive effort and introducing a mutant decreasing reproductive effort,
+then gradually decreasing the reproductive effort coded by the resident, as the mutant invades, until it no longer does.
 
 */
 
