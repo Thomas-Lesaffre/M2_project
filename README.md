@@ -4,7 +4,7 @@ Programs related to my master internship project. For the moment, the related ma
 
 --------------------------------------------------------------------------------------------------
 
-=> This project contains four programs in total:
+This project contains four programs in total:
 
 - The 'Joint_evolution_simulations' repository contains a program for individual-centered simulations of the joint evolution of reproductive effort and selfing rate.
 
@@ -14,7 +14,7 @@ Programs related to my master internship project. For the moment, the related ma
 
 --------------------------------------------------------------------------------------------------
 
-=> All programs are coded in C++, and have a similar structure:
+All programs are coded in C++, and have a similar structure:
 
 - Recursions are coded in the 'Recursion.cpp' file. 
 
