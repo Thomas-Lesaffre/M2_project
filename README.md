@@ -1,6 +1,10 @@
 # M2_project
 
-Programs related to my master internship project. For the moment, the related manuscript can be found here: https://www.biorxiv.org/content/10.1101/420877v2 
+Programs related to my master internship project. 
+
+For the moment, the related manuscript can be found here: https://doi.org/10.1101/420877.
+
+It is now recommended in _PeerCommunityIn Evol Biol_, recommendation by Thomas Bataillon can be found here: https://doi.org/10.24072/pci.evolbiol.100070.
 
 --------------------------------------------------------------------------------------------------
 
