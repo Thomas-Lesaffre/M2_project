@@ -2,9 +2,11 @@
 
 Programs related to my master internship project. 
 
-For the moment, the related manuscript can be found here: https://doi.org/10.1101/420877.
+The preprint version of the related manuscript can be found here: https://doi.org/10.1101/420877.
 
-It is now recommended in _PeerCommunityIn Evol Biol_, recommendation by Thomas Bataillon can be found here: https://doi.org/10.24072/pci.evolbiol.100070.
+It is recommended in _PeerCommunityIn Evol Biol_, recommendation by Thomas Bataillon can be found here: https://doi.org/10.24072/pci.evolbiol.100070.
+
+This article is now published in _Journal of Evolutionary Biology_ (DOI: https://doi.org/10.1111/jeb.13543)
 
 --------------------------------------------------------------------------------------------------
 
