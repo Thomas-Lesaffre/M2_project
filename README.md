@@ -1,8 +1,6 @@
-# M2_project
+# The joint evolution of lifespan and selfing (DOI: https://doi.org/10.1101/420877)
 
-Programs related to my master internship project. 
-
-The preprint version of the related manuscript can be found here: https://doi.org/10.1101/420877.
+The preprint version of the manuscript can be found here: https://doi.org/10.1101/420877.
 
 It is recommended in _PeerCommunityIn Evol Biol_, recommendation by Thomas Bataillon can be found here: https://doi.org/10.24072/pci.evolbiol.100070.
 
